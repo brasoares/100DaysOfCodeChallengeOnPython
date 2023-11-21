@@ -1,7 +1,7 @@
 # 100DaysOfCodeChallengeOnPython
 Ciao tutti! 👋
 
-This is my repo for my #100DaysOfCode Challenge based on Python and by the guidance of Dr. Angela Yu on her Udemy course ["100 Days of Code: The Complete Python Pro Bootcamp for 2023
+This is my repo for my [#100DaysOfCode](https://twitter.com/HenocSoares) Challenge based on Python and by the guidance of Dr. Angela Yu on her Udemy course ["100 Days of Code: The Complete Python Pro Bootcamp for 2023
 "](https://www.udemy.com/course/100-days-of-code/). It is a projected-based approach that encourages consistent coding practice.
 
 Validating in several places, including the quote ahead from the [official website](https://www.100daysofcode.com/faq/) (although there are many dedicated spots, now), I agree that due to unforseen circumstances to be flexible is key to maintaining the momentum and improvement:
