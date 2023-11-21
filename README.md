@@ -8,7 +8,7 @@ Validating in several places, including the [official website](https://www.100da
 
 >Q: I’ve missed a day, does it mean I’ve failed the challenge?
 
->A: Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on >habit formation that I got from Leo Babauta at zen habits.
+>A: Absolutely not. You are allowed to miss one day (then make it up by adding one more day to the end of the 100), but never miss two days in a row. This is a great piece of advice on habit formation that I got from Leo Babauta at zen habits.
 
 My commitment? Never miss two consecutive days of code if I can. If possible, finish the challenge in up to 100 consecutive days, even if there is the need to code the bootcamp to the equivalent of two days in one only at times (only on special ocasions). After all, life and this challenge are in parts about dedication, commitment and consistency, and not just tallying numbers.
 
