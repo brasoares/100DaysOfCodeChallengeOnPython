@@ -12,7 +12,7 @@ My commitment? Never miss two consecutive days of code if I can. If possible, fi
 
 I attempted this challenge in the past 12 days or so, but struggled to code consistently. Now, I am determined to persevere — even if I miss parts of it again (which I will make up for) I will go on.
 
-Let's remember that counting consecutive days isn't our primary goal or focus. Instead, we are here to learn, commit and improve. Also, in my experience, I see this challenge as even a way to be able to better organize my personal life. There's always room for growth! If circumstances beyond my control temporarily disrupt my progress on the challenge, that's okay. Time is relative, but giving up is not an option.
+Let's remember that counting consecutive days isn't our primary goal or focus. Instead, we are here to learn, commit and improve. Also, in my experience, I see this challenge as even a way to be able to better organize my personal life as this one more task. There's always room for growth! If circumstances beyond my control temporarily disrupt my progress on the challenge, that's okay. Time is relative, but giving up is not an option.
 
 So, I'll adapt the challenge as needed — perhaps coding two days in one to catch up as I said above. But I'll stay true to the core of the challenge.
 
