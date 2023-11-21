@@ -8,7 +8,7 @@ Validating in several places, including the [official website](https://www.100da
 
 ![image](https://github.com/brasoares/100DaysOfCodeChallengeOnPython/assets/103623720/557cd3a4-c620-4c39-af7d-517d17f4e4d4)
 
-My commitment? Never miss two consecutive days of code if I can. If possible, finish the challenge in up to 100 consecutive days, even if there is the need to code the bootcamp to the equivalent of two days in one only at times (only in special ocasions). After all, life and this challenge are in parts about dedication, commitment and consistency, and not just tallying numbers.
+My commitment? Never miss two consecutive days of code if I can. If possible, finish the challenge in up to 100 consecutive days, even if there is the need to code the bootcamp to the equivalent of two days in one only at times (only on special ocasions). After all, life and this challenge are in parts about dedication, commitment and consistency, and not just tallying numbers.
 
 I attempted this challenge in the past 12 days or so, but struggled to code consistently. Now, I am determined to persevere — even if I miss parts of it again (which I will make up for) I will go on.
 
