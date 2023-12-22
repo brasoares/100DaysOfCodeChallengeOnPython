@@ -30,7 +30,7 @@ while True:
 		if go_or_stay == 'wait':
 			which_door = input("You safely arrived at shore and saw a shackle.\nActually, the door is only one...\nBut you see different pills on a table.\nA red one and a blue one; besides a glass of pure water.\nDepending on your choice, the door will lead you to a different path: ")
 			if which_door == 'red':
-				print("Congratulations on your bravery, you are a true Gryffindor and chose the pill that lead you to the truth and you are now stronger than ever!")
+				print("Congratulations on your bravery, you are a true Gryffindor and chose the pill that led you to the truth and you are now stronger than ever!")
 				print('''
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣦⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -76,7 +76,7 @@ while True:
 			else:
 				print("Please, try again:")
 		elif go_or_stay == 'swim':
-			print("Game over! You encountered a deadly Hydra!")
+			print("Oh, no! Game over! You encountered a deadly Hydra!")
 			break
 		else:
 			print("Please, try again:")
